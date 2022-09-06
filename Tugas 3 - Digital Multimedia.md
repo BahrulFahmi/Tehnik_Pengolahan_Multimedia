@@ -199,3 +199,27 @@ newspaper proprietor William Randolph Hearst — who also owned
 the syndication rights to many popular comic strips of the period.
 
 ### Multimedia Production
+
+Remember that the time we are now describing was twenty years
+after the invention of cinema, yet we still find film looking to earlier
+media for its forms and content. In a similar way, multimedia still
+adopts the format of earlier media; the most obvious example is the
+multimedia encyclopedia, which has the same form — a series of
+short articles, accessible through one or more indexes — as its paper
+equivalent, and is often published by the same organization. Other
+reference works also follow the form of reference books, sometimes,
+as in the case of some of Dorling-Kindersley's CD-ROMs, following
+the distinctive house style of their originals. Electronic software
+manuals rarely depart far from the organization of hard-copy
+manuals, merely adding better searching facilities and sometimes
+some animation.
+
+One of the things that was needed before film could acquire its
+distinct character as a medium was an appreciation of the way the
+movie camera and film could be used to create new sorts of images,
+by framing, movement, editing and special effects. In multimedia,
+part of what is presently missing is a real understanding of how
+we can take advantage of the fact that digital multimedia is data,
+to integrate the presentation of multimedia with computation. For
+the moment, we are largely confined to controlling the presentation
+interactively, and to moving the data across networks.
